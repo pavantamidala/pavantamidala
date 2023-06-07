@@ -1,4 +1,4 @@
-# My GitHub Profile
+# About Me
 
 ## Introduction
 Welcome to my GitHub profile! I am a passionate Javascript developer with expertise in various technologies including React, Angular, and Node.js. I hail from Nellore, Andhra Pradesh, India. I completed my degree in BBA from Zenex Vision Degree College and developed a strong interest in software engineering, which led me to learn programming through online resources such as FreeCodeCamp, Udemy, YouTube, and Frontend Masters. With two years of experience in the Javascript space, I have primarily focused on frontend development, while also gaining valuable experience in Node.js.
