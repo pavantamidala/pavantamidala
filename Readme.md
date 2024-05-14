@@ -9,17 +9,11 @@ Welcome to my GitHub profile! I am a passionate Javascript developer with expert
 - **Angular:** I am proficient in Angular, a powerful framework for building scalable and dynamic web applications.
 - **Node.js:** I have practical knowledge of Node.js, allowing me to develop server-side applications and APIs.
 
-## Projects
-I have worked on a variety of projects that showcase my skills and expertise. Some of the notable projects include:
-- Project 1: [Name of the Project](link-to-project) - A brief description of the project and my role in its development.
-- Project 2: [Name of the Project](link-to-project) - A brief description of the project and my role in its development.
-- Project 3: [Name of the Project](link-to-project) - A brief description of the project and my role in its development.
-
 Please visit my GitHub repositories to explore more of my projects and code contributions.
 
 ## Contact Information
 I am open to collaboration, learning opportunities, and interesting projects. Feel free to reach out to me through the following channels:
-- GitHub: [Your GitHub Profile](link-to-github-profile)
+- GitHub: [[Your GitHub Profile](link-to-github-profile)](https://www.linkedin.com/in/pavan-kumar-a9100a1a3/)
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
 - Email: [Your Email Address](mailto:youremail@example.com)
 
