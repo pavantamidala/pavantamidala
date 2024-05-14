@@ -13,8 +13,8 @@ Please visit my GitHub repositories to explore more of my projects and code cont
 
 ## Contact Information
 I am open to collaboration, learning opportunities, and interesting projects. Feel free to reach out to me through the following channels:
-- GitHub: [[Your GitHub Profile](link-to-github-profile)](https://www.linkedin.com/in/pavan-kumar-a9100a1a3/)
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin-profile)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- GitHub:  https://github.com/pavantamidala
+- LinkedIn: https://www.linkedin.com/in/pavan-kumar-a9100a1a3/
+- Email: [Your Email Address](mailto:pavantamidala023@gmail.com)
 
 I look forward to connecting with you and exploring new possibilities in the world of Javascript development!
